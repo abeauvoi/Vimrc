@@ -41,7 +41,7 @@ set showmatch 					" Show matching bracket, parenthesis, etc.
 set number						" Show line number
 set dir=~/.vim/swap				" where to store .swp files
 " Colorscheme
-colorscheme papercolor
+colorscheme PaperColor		" THIS IS CASE-SENSITIVE !!
 set background=dark
 syntax on
 " set UTF-8 encoding
